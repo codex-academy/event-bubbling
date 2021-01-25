@@ -1,0 +1,47 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+
+	width: 50%;
+	margin: auto;
+	/* background-color: darkseagreen; */
+	padding: 1em;
+}
+
+.names {
+  
+	list-style: none;
+	padding: 0em;
+	
+	
+  }
+  
+
+  .names {
+	  /* border: 1px solid; */
+  }
+
+  .names > li {
+	
+	text-align: center;
+	border-radius: 0.25em;
+	  
+	/*   background-color: cyan; */  
+	  
+	padding: 1em;
+	border: 1px solid;
+	margin: 0.5em;
+	
+  }
+  
+  
+  .selected {
+	
+	  background-color: cyan;
+	
+  }
+
+  .bigNumber {
+	  font-size: 200%;
+  }
